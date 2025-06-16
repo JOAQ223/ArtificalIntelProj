@@ -1,4 +1,4 @@
-# project to portfoly as basic ML
+# project to portofolio as basic ML
 
 ###  Starting to do the EDA
 
@@ -21,4 +21,3 @@
 ### make the GUI for the model 
     -Desing a simple gui for the User
     -Test the GUI
-    
